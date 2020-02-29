@@ -1,0 +1,13 @@
+.boton {
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.borrar {
+    color: red;
+}
+
+.add {
+    color: green;
+}
